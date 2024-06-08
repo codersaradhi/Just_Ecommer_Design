@@ -270,16 +270,18 @@ h3 {
     font-size: 14px;
     font-weight: lighter;
 }
-.price{
+
+.price {
     font-weight: bold;
 }
+
 /* -------------sale -------------------- */
 #sale_section {
     width: 100%;
     height: 110vh;
 }
 
-#sale_top_outer{
+#sale_top_outer {
     width: 100%;
     height: 80vh;
     background-color: #F8F6F3;
@@ -291,49 +293,57 @@ h3 {
     justify-content: center;
     flex-wrap: wrap;
 }
-.sale_top_inner{
+
+.sale_top_inner {
     display: flex;
     align-items: center;
     justify-content: space-evenly;
     flex-wrap: wrap;
 }
-.sale_item{
+
+.sale_item {
     width: 380px;
     height: 390px;
-    padding:40px ;
+    padding: 40px;
     margin: 10px;
     background: #ffffff;
     border-radius: 10px;
 }
-.item1{
+
+.item1 {
     background-image: url(./images/pomme-large.jpg);
     background-position: bottom right;
     background-size: 70% auto;
     background-repeat: no-repeat;
 }
-.item2{
+
+.item2 {
     background-image: url(./images/raisin-large.jpg);
     background-position: bottom right;
     background-size: 70% auto;
     background-repeat: no-repeat;
 }
-.item3{
+
+.item3 {
     background-image: url(./images/beans-and-legume-1.jpg);
     background-position: bottom right;
     background-size: 80% auto;
     background-repeat: no-repeat;
 }
-.fa-arrow-right{
+
+.fa-arrow-right {
     margin-left: 10px;
     font-weight: bolder;
 }
-.sale_iteam_heading{
+
+.sale_iteam_heading {
     font-family: "Merriweather", serif;
     font-size: 24px;
     font-weight: 600;
     margin-bottom: 5px;
 }
-.sale_item_description{
+
+.sale_item_description {
     color: #929292;
     margin-top: 0px;
 }
@@ -344,7 +354,7 @@ h3 {
     justify-content: space-around;
     height: 20vh;
     background-color: black;
-    
+
 }
 
 #sale_bottom {
@@ -395,7 +405,8 @@ h3 {
     flex-wrap: wrap;
     flex-direction: column;
 }
-#customer-reviews_inner{
+
+#customer-reviews_inner {
     width: 80%;
     height: 100vh;
     display: flex;
@@ -404,7 +415,8 @@ h3 {
     flex-wrap: wrap;
     flex-direction: column;
 }
-.reviewers_section{
+
+.reviewers_section {
     display: flex;
     align-items: center;
     justify-content: space-evenly;
@@ -412,7 +424,8 @@ h3 {
     flex-direction: row;
     gap: 20px;
 }
-.reviews{
+
+.reviews {
     width: 380px;
     height: 380px;
     background-color: white;
@@ -427,22 +440,27 @@ h3 {
     box-shadow: 0 0 10px 0 rgba(40, 40, 40, .1);
 
 }
-.customer_rating{
+
+.customer_rating {
     color: gold;
     font-size: 20px;
 }
-.reviewer_profile{
+
+.reviewer_profile {
     display: flex;
     align-items: center;
 }
-.review{
+
+.review {
     font-size: 16px;
     color: #868686;
 }
-.reviewer_name{
+
+.reviewer_name {
     padding-left: 10px;
     font-weight: 500;
 }
+
 /* -------------Branded partners sections---------------- */
 #branded_partner_outer {
     width: 100%;
