@@ -338,14 +338,16 @@ h3 {
     align-items: center;
     justify-content: center;
 }
-#branded_partner_inner{
+
+#branded_partner_inner {
     width: 80%;
     height: 300px;
     display: flex;
     align-items: center;
     justify-content: space-evenly;
 }
-#branded_partner_inner p{
+
+#branded_partner_inner p {
     font-family: "Merriweather", serif;
     font-size: 20px;
     font-weight: 600;
@@ -404,10 +406,12 @@ h3 {
     align-items: flex-start;
     flex-direction: column;
 }
+
 .fotter_links {
     list-style: none;
     margin-bottom: 5px;
 }
+
 .footer_directs {
     text-decoration: none;
     color: #A9AEAE;
@@ -419,34 +423,42 @@ h3 {
     height: auto;
     padding-left: 100px;
 }
-#ask_for_download{
+
+#ask_for_download {
     padding-bottom: 10px;
 }
-#footer_sub{
+
+#footer_sub {
     padding-left: 20px;
 }
+
 #about_store_right {
     width: 30%;
     height: auto;
 }
-.moredown{
+
+.moredown {
     margin-top: 100px;
 }
+
 /* #about_us{
     padding-top: 50px;
 } */
-.app_download{
+.app_download {
     width: 120px;
     height: auto;
 }
-.buttons_to_download{
+
+.buttons_to_download {
     margin-top: 20px;
 }
-.buttons_to_download button{
+
+.buttons_to_download button {
     border: none;
     border-radius: 5px;
     margin-left: 20px;
 }
+
 /* --------------last footer---------------- */
 hr {
     background-color: #4b4b4b;
